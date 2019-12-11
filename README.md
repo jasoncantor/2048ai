@@ -2,7 +2,7 @@
 
 AI for the game [2048](https://github.com/gabrielecirulli/2048).
 
-See it in action [here](http://ronzil.github.io/2048-AI/).
+See it in action [here](https://jasoncantor.github.io/2048ai/).
 
 After seeing several AI projects for the game, I was interested in creating an AI that does not contain any hard-coded knowledge about the game (like scoring functions, heuristics etc). Instead the AI should "find out for itself" without me, the programmer having to know anything about game strategy.
 
